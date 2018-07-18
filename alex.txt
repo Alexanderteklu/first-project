@@ -5,6 +5,8 @@ public class main
     System.out.println("WELCOME");
     System.out.println("GOOD BYE");
     System.out.println("GOOD MORNING");
+    System.out.println("GOOD AFTERNOON");
+    System.out.println("GOOD EVENING");
    
   }
 }
