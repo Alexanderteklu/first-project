@@ -2,6 +2,7 @@ public class main
 {
   public static void main (String [] args)
   {
+    System.out.println("Today is earth day)";
     System.out.println("WELCOME");
     System.out.println("GOOD BYE");
     System.out.println("GOOD MORNING");
